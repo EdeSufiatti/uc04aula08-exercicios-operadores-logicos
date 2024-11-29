@@ -3,8 +3,8 @@
 //obtendo-se o próximo termo a partir da soma do termo atual com o anterior sucessivamente até o infinito se a sequência não for interrompida,
 //sendo determinada a partir da fórmula fórmula Fn = Fn-1 + Fn-2. Utilize para este exercício as variáveis ATUAL, ANTERIOR e PRÓXIMO.
 
-let anterior: number = 0;
-let atual: number = 1;
+let anterior = 0;
+let atual = 1;
 let proximo: number;
 
 
