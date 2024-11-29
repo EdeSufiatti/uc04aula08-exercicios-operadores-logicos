@@ -3,8 +3,8 @@
 
 
 for (let i = 1; i < 200; i++) {
-  if (i % 4 === 0) { 
-    console.log(i)
+  if (i % 4 === 0) {
+    console.log("Divisivel por 4 "+i)
 
   }
 }
